@@ -129,5 +129,8 @@
       }
     }
   },
-  "defaultProject": "EvCharge"
+  "defaultProject": "EvCharge",
+  "cli": {
+    "analytics": false
+  }
 }
